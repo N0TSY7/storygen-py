@@ -1,0 +1,27 @@
+noun1 = input("Enter a noun: ")
+noun2 = input("Enter a noun: ")
+noun3 = input("Enter a noun: ")
+
+verb1 = input("Enter a verb: ")
+verb2 = input("Enter a verb: ")
+verb3 = input("Enter a verb: ")
+
+adjective1 = input("Enter an adjective: ")
+adjective2 = input("Enter an adjective: ")
+adjective3 = input("Enter an adjective: ")
+
+name1 = input("Enter a name: ")
+
+print("In a cooled winter night. The was a boy in the kitchen of his house named ")
+print(name1)
+print("He decided to go upstairs to get a " + noun1)
+print("On his way upstairs he see's a bright light coming from the edge's of the basement door")
+print("He " + verb1 + " to the door and opened it")
+
+
+
+print("In a cooled winter night") 
+print("There was a boy in the kitchen named " + (input("Give me a name ")))
+print("and they dicied to go upstairs to get some " + (input("Give me a noun ")))
+print("While + (input("give me a adjestive "))
+
