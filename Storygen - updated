@@ -1,0 +1,28 @@
+noun1 = input("Enter a noun: ")
+noun2 = input("Enter a noun: ")
+noun3 = input("Enter a noun: ")
+
+verb1 = input("Enter a verb: ")
+verb2 = input("Enter a verb: ")
+verb3 = input("Enter a verb: ")
+
+adjective1 = input("Enter an adjective: ")
+adjective2 = input("Enter an adjective: ")
+adjective3 = input("Enter an adjective: ")
+
+name1 = input("Enter a name: ")
+
+print("In a cold winter night, there was a boy in the kitchen of his house named " + name1 + ".")
+print("He decided to go upstairs to get a " + noun1 + ".")
+print("On his way upstairs, he sees a bright light coming from the edges of the basement door.")
+print("He " + verb1 + " to the door and opened it.")
+
+print("To his surprise, he finds a " + adjective1 + " " + noun2 + " floating in the middle of the room.")
+print("It looked like it wanted him to " + verb2 + ".")
+print(name1 + " felt a mix of fear and excitement, but his curiosity got the better of him.")
+print("As he reached out to touch the " + noun2 + ", it started to glow even brighter and whispered, 'I will give you the power to " + verb3 + "'.")
+
+print("Suddenly, everything went dark, and when the lights returned, " + name1 + " found himself wearing a " + adjective2 + " cloak.")
+print("He realized he was no longer in his house, but in a " + adjective3 + " world filled with strange creatures and mystical forces.")
+print("In his hand, he held a magical " + noun3 + " that seemed to pulse with energy.")
+print("From that moment on, " + name1 + " knew his life would never be the same.")
