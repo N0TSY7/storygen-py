@@ -1,0 +1,7 @@
+Write a program that prints 0-6 without 3 and 6
+
+
+for num in range(7): 
+  if num == 3 or num == 6:  
+      continue
+  print(num)
